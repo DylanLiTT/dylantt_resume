@@ -1,12 +1,12 @@
 {
-  "name": "confetti_cuisine",
+  "name": "Wentao Li's Page",
   "version": "1.0.0",
-  "description": "A site for booking classes for cooking.",
+  "description": "A site for Wentao Li's resume",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jon Wexler",
+  "author": "Wentao Li",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.1",
